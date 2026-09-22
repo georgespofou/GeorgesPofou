@@ -86,6 +86,6 @@ I'm developing my skills towards roles such as:
 - QA Automation Engineer
   
 How to reach me:
-- 💼 LinkedIn: [Connect with me on LinkedIn](YOUR-LINKEDIN-URL)
+- 💼 LinkedIn: [Connect with me on LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/georgespofou))
 - 💻 GitHub: ..
   
