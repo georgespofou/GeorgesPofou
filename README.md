@@ -63,6 +63,11 @@ Software Development / Full Stack:
 Open University Projects:
 
 - TM252 Web Application
+
+🚀 **[Live Demo](https://georgespofou.github.io/TMA-Web-Application/)**
+
+📂 **[View Source Code](https://github.com/georgespofou/TMA-Web-Application)**
+
 - Flask Projects
 - Flask API projects
 - Web Accessibility Testing
