@@ -68,7 +68,7 @@ Open University Projects:
 
 📂 **[View Source Code](https://github.com/georgespofou/TMA-Web-Application)**
 
-- Flask Projects
+- Reponsive Form Implementation
 - Flask API projects
 - Web Accessibility Testing
 - Web Security Projects
