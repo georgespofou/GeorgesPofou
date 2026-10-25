@@ -75,6 +75,8 @@ Open University Projects:
   
 - IT-Service & Project Management
   
+  📂  https://github.com/georgespofou/IT-Service-and-Project-Management-portfolio.git
+  
 Education & Certification:
 - The Open University (OU)
 - ISTQB
