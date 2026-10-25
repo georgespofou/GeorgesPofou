@@ -73,6 +73,7 @@ Open University Projects:
 - Web Accessibility Testing
 - Web Security Projects
   
+- IT-Service & Project Management
   
 Education & Certification:
 - The Open University (OU)
