@@ -15,21 +15,22 @@ I'm developing my skills towards roles such as:
 - Junior Cloud Developer
 - SDET
 - QA Engineer
+  
 
 TECHNICAL SKILLS:
  
    Software Development:
   
-   - Python |Java |JavaScript | HTML5|CSS3 |Bootstrap |Vue.js |Flask|RestApi|Cloud Computing|AI
+   - Python | Java | JavaScript | HTML5 | CSS3 | Bootstrap | Vue.js | Flask | RestApi| Cloud Computing | AI
      
    QA Engineer:
    
-   - Java |Selenium WebDrive| TestNG| Cucumber | Gherkin |BDD |API Testing|pom|Manual Testing|AI 
+   - Java | Selenium WebDrive | TestNG | Cucumber | Gherkin | BDD | API Testing | pom | Manual Testing | AI 
 
 
 TOOLS:
 
- VS Code |intellij idea|JavaScript | Jira|wave |Chrome DevTools |Git |AzureDevop
+ VS Code | intellij idea | JavaScript | Jira | wave | Chrome DevTools | Git | AzureDevop
 
 
 
@@ -44,7 +45,7 @@ SOFTWARE DEVELOPMENT PROJECTS:
 
   Open University Projects:
 
-   - TM252 Web Application
+   - Education Dashboard
 
    🚀 **[Live Demo](https://georgespofou.github.io/TMA-Web-Application/)**
 
@@ -60,12 +61,14 @@ SOFTWARE DEVELOPMENT PROJECTS:
   📂  https://github.com/georgespofou/IT-Service-and-Project-Management-portfolio.git
 
 
+
 QA ENGINEER PROJECTS:
 
  - Java Selenium Automation Framework
  - Cucumber BDD Framework
  - API Automation Framework
  - Web Application Testing
+
 
   
 EDUCATION & CERTIFICATION:
