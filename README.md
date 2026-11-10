@@ -2,55 +2,40 @@
 
 Junior Software Developer | Full-Stack Development |QA Engineer 
 
-About Me
+ABOUT ME:
 
 I’m currently studying Computing and IT / Software Development at The Open University, while building practical experience in software development, test automation, web technologies, and cloud computing. I’m developing my skills through academic projects, personal projects, and hands-on practice.
 
- Technical Skills:
+CAREER GOALS:
+
+I'm developing my skills towards roles such as:
+
+- Junior Front End Developer
+- Junior Full-Stack Developer
+- Junior Cloud Developer
+- SDET
+- QA Engineer
+
+TECHNICAL SKILLS:
  
- Software Development:
+   Software Development:
   
-- Python
-- Java
-- Flask
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- Vue.js
-- Git & GitHub
-
- Cloud:
-- Azure
-- Cloud Computing
-  
-AI:
- - 
- - 
-
-QA Engineer:
-
-- Java
-- Selenium WebDriver
-- TestNG
-- Cucumber
-- Gherkin
-- BDD
-- API Testing
-- Manual Testing
-
-Tools:
-- VS Code
-- Git
-- GitHub
-- Jira
-- wave
-- Chrome DevTools
+   - Python |Java |JavaScript | HTML5|CSS3 |Bootstrap |Vue.js |Flask|RestApi|Cloud Computing|AI
+     
+   QA Engineer:
+   
+   - Java |Selenium WebDrive| TestNG| Cucumber | Gherkin |BDD |API Testing|pom|Manual Testing|AI 
 
 
-Software Development Projects:
+TOOLS:
 
-  Software Development / Full Stack:
+ VS Code |intellij idea|JavaScript | Jira|wave |Chrome DevTools |Git |AzureDevop
+
+
+
+SOFTWARE DEVELOPMENT PROJECTS:
+
+  Personnal Projects:
 
    - Flask Booking System
    - Vue.js Front-End Application
@@ -75,7 +60,7 @@ Software Development Projects:
   📂  https://github.com/georgespofou/IT-Service-and-Project-Management-portfolio.git
 
 
-QA Engineer / SDET Projects:
+QA ENGINEER PROJECTS:
 
  - Java Selenium Automation Framework
  - Cucumber BDD Framework
@@ -83,22 +68,13 @@ QA Engineer / SDET Projects:
  - Web Application Testing
 
   
-Education & Certification:
+EDUCATION & CERTIFICATION:
 
 - The Open University (OU)
 - ISTQB
 
 
-Career Goals:
 
-I'm developing my skills towards roles such as:
-
-- Junior Front End Developer
-- Junior Full-Stack Developer
-- Junior Cloud Developer
-- Test Automation Engineer
-- SDET
-- QA Automation Engineer
   
 How to reach me:
 - 💼 LinkedIn:(https://www.linkedin.com/in/georgespofou)
