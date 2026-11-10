@@ -1,6 +1,6 @@
 ## Hi I am Georges Pofou👋
 
-Junior Software Developer | Test Automation | Full-Stack Development
+Junior Software Developer | Full-Stack Development |Test Automation 
 
 About Me
 
