@@ -11,6 +11,7 @@ I’m currently studying Computing and IT / Software Development at The Open Uni
  Software Development:
   
 - Python
+- Java
 - Flask
 - JavaScript
 - HTML5
@@ -19,7 +20,15 @@ I’m currently studying Computing and IT / Software Development at The Open Uni
 - Vue.js
 - Git & GitHub
 
-Test Automation:
+ Cloud:
+- Azure
+- Cloud Computing
+  
+AI:
+ - 
+ - 
+
+QA Engineer:
 
 - Java
 - Selenium WebDriver
@@ -30,11 +39,6 @@ Test Automation:
 - API Testing
 - Manual Testing
 
-
-Cloud:
-- Azure
-- Cloud Computing
-
 Tools:
 - VS Code
 - Git
@@ -44,40 +48,43 @@ Tools:
 - Chrome DevTools
 
 
-Projects:
+Software Development Projects:
 
-Test Automation / SDET:
+  Software Development / Full Stack:
 
-- Java Selenium Automation Framework
-- Cucumber BDD Framework
-- API Automation Framework
-- Web Application Testing
-
-Software Development / Full Stack:
-
-- Flask Booking System
-- Vue.js Front-End Application
-- E-commerce Website
+   - Flask Booking System
+   - Vue.js Front-End Application
+   - E-commerce Website
   
 
-Open University Projects:
+  Open University Projects:
 
-- TM252 Web Application
+   - TM252 Web Application
 
-🚀 **[Live Demo](https://georgespofou.github.io/TMA-Web-Application/)**
+   🚀 **[Live Demo](https://georgespofou.github.io/TMA-Web-Application/)**
 
-📂 **[View Source Code](https://github.com/georgespofou/TMA-Web-Application)**
+   📂 **[View Source Code](https://github.com/georgespofou/TMA-Web-Application)**
 
-- Reponsive Form Implementation
-- Flask API projects
-- Web Accessibility Testing
-- Web Security Projects
+   - Reponsive Form Implementation
+   - Flask API projects
+   - Web Accessibility Testing
+   - Web Security Projects
   
-- IT-Service & Project Management
+   - IT-Service & Project Management
   
   📂  https://github.com/georgespofou/IT-Service-and-Project-Management-portfolio.git
+
+
+QA Engineer / SDET Projects:
+
+ - Java Selenium Automation Framework
+ - Cucumber BDD Framework
+ - API Automation Framework
+ - Web Application Testing
+
   
 Education & Certification:
+
 - The Open University (OU)
 - ISTQB
 
